@@ -2400,7 +2400,7 @@
 				)
 			)
 		)
-		(property "Footprint" "8x8_controller:CUI_PJ-037A"
+		(property "Footprint" "8x8_controller_library:CUI_PJ-037A"
 			(at 72.39 62.23 0)
 			(effects
 				(font
@@ -2580,7 +2580,7 @@
 				)
 			)
 		)
-		(property "Footprint" "8x8_controller:Arduino_Nano_Socket"
+		(property "Footprint" "8x8_controller_library:Arduino_Nano_Socket"
 			(at 180.34 120.65 0)
 			(effects
 				(font

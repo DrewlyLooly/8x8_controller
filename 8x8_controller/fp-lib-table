@@ -1,4 +1,4 @@
 (fp_lib_table
   (version 7)
-  (lib (name "8x8_controller")(type "KiCad")(uri "C:/Users/andre/OneDrive/Documents/GitHub/8x8_controller/8x8_controller")(options "")(descr "Footprints for controller"))
+  (lib (name "8x8_controller_library")(type "KiCad")(uri "${KIPRJMOD}/8x8_controller_library.pretty")(options "")(descr ""))
 )
